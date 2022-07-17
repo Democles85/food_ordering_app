@@ -1,0 +1,9 @@
+Pizza pesto Genovese is a variety of Italian pizza that is traditionally topped with 
+pieces of mozzarella di bufala and the famous pesto Genovese sauce. The pizza is 
+typically finished off with a drizzle of olive oil before serving.
+
+Extra options:
+1) Mozzarella
+2) Olive Oil
+3) Pesto
+4) Parmesan 
